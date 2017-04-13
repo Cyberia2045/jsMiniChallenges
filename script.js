@@ -66,9 +66,46 @@
 
 // Exercise Six //
 
+	// function party(name) {
+	// 	console.log("Welcome to the party " + name)
+	// }
+
+	// party("Oggi");
+
+// Exercise Seven //
+
+	// function something() {
+	// 	console.log("something");
+	// };
+
+	// something();
+
+// Exercise Eight //
+
+// document.addEventListener("DOMContentLoaded", function(event) {
+
+// function door() {
+// 	var door = document.getElementById("door").value;
+// 	var button = document.getElementById("button");
 	
+// 	if(door === "1") {
+// 		alert("You chose door number one. You win a Tesla!")
+// 	}
+// 	else if(door === "2") {
+// 		alert("You chose door number two. You win a trip to Bali!")
+// 	}
+// 	else if(door === "3") {
+// 		alert("You chose door number three. You win the the 2016 Presidential Election!")
+// 	}
+// 	else {
+// 		alert("You lost the easiest contest in the world.  You deserve nothing and you're taxes are due in two days!")
+// 	}
 
+// 	};
 
+// 	button.addEventListener("click", door);
+
+// }); // closes ready function
 
 
 
