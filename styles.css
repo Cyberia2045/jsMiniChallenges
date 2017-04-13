@@ -1,0 +1,9 @@
+body {
+	background-color: teal;
+	font-family: "Futura";
+}
+
+.form_container {
+	width:300px;
+	margin:0 auto;
+}
