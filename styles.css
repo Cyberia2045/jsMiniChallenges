@@ -1,0 +1,16 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: teal;
+	font-family: "Futura";
+}
+
+/*------form styling-------*/
+
+.form_container {
+	width:300px;
+	margin:0 auto;
+}
+
